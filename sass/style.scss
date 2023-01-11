@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&family=Open+Sans:ital,wght@0,300;0,400;0,700;1,300&display=swap');
+
+body {
+    margin: 0;
+}
+.container {
+    width: 100%;
+    margin: 0 auto;
+}
+@import 'first.scss';
+@import 'navbar.scss';
+@import 'about.scss';
+@import 'service';
+@import 'brend';
+@import 'work';
+@import 'footer';
+@import 'navbar';
+@import 'master';
+@import 'price';
+@import 'contacts';
+
+@import 'media';
+
